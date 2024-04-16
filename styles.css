@@ -1,0 +1,12 @@
+:root {
+    --neutral-color: var(#6da680);
+    --bright-green: var(#64e186);
+    --text-color: var(#00442a);
+    --neutral-secondary: var(#a4b0a3);
+
+}
+
+
+* {
+    font-family: 'Kalnia', sans-serif;
+}
